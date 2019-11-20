@@ -1,4 +1,4 @@
-# 游乐场
+# 游乐场 [![HitCount](http://hits.dwyl.io/p14yground/p14ygroundgithubio.svg)](http://hits.dwyl.io/p14yground/p14ygroundgithubio)
 
 ## 项目
 
