@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Into
 
-You can use the [editor on GitHub](https://github.com/p14yground/p14yground.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+喜欢折腾？来吧。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 游乐场 (Playground)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p14yground/p14yground.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+游乐场是指让儿童自由自在玩耍的地方。现代游乐场通常会有跷跷板、旋转木马、秋千、单杠、双杠、滑梯、吊秋千、吊环、玩具小屋及迷宫。这些游戏能够帮助儿童发展协作能力、使身体强健及学会处世技巧，而且又可提供娱乐及享受。 专家认为儿童在游乐场里所学得的社交技巧将会使其终身受用。有独立调查指出游乐场是儿童在户外最常去的地方。[维基百科](https://zh.wikipedia.org/zh-cn/%E9%81%8A%E6%A8%82%E5%A0%B4)
